@@ -13,6 +13,5 @@ node_modules/
 /npm-debug.log
 
 # Dist
-!.dist/assets
-.dist/game.js
-.game.js.map
+dist/game.js
+dist/game.js.map
